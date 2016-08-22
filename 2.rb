@@ -6,7 +6,7 @@
 
 def sum_of_evens
   ary = [1, 2]
-  sum= 0
+  sum = 0
   result = 0
 
   until sum > 4 * 10 ** 6
